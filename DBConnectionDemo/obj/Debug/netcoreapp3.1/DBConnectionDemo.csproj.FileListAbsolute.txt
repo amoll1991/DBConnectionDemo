@@ -1,0 +1,13 @@
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\bin\Debug\netcoreapp3.1\DBConnectionDemo.exe
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\bin\Debug\netcoreapp3.1\DBConnectionDemo.deps.json
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\bin\Debug\netcoreapp3.1\DBConnectionDemo.runtimeconfig.json
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\bin\Debug\netcoreapp3.1\DBConnectionDemo.runtimeconfig.dev.json
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\bin\Debug\netcoreapp3.1\DBConnectionDemo.dll
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\bin\Debug\netcoreapp3.1\DBConnectionDemo.pdb
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.csprojAssemblyReference.cache
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.AssemblyInfoInputs.cache
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.AssemblyInfo.cs
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.dll
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.pdb
+C:\Users\Amol Khapare\source\repos\DBConnectionDemo\DBConnectionDemo\obj\Debug\netcoreapp3.1\DBConnectionDemo.genruntimeconfig.cache
