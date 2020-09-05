@@ -67,5 +67,5 @@ namespace DBConnectionModel
             DB2.OpenConnection();
             DB2.CloseConnection();
         }
-    }
+i    }
 }
